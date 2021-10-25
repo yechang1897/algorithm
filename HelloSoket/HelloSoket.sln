@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloSoket", "HelloSoket\HelloSoket.vcxproj", "{B34C04B7-D327-4001-B3E9-379E286EABD2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EasyTcpServer", "EasyTcpServer\EasyTcpServer.vcxproj", "{D65D0CA8-6F3F-461A-9796-F2F6F8C7E2DF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EasyTCPClient", "EasyTCPClient\EasyTCPClient.vcxproj", "{36824FB0-A7D1-4765-BB97-A3AA3F608F09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B34C04B7-D327-4001-B3E9-379E286EABD2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B34C04B7-D327-4001-B3E9-379E286EABD2}.Debug|Win32.Build.0 = Debug|Win32
+		{B34C04B7-D327-4001-B3E9-379E286EABD2}.Release|Win32.ActiveCfg = Release|Win32
+		{B34C04B7-D327-4001-B3E9-379E286EABD2}.Release|Win32.Build.0 = Release|Win32
+		{D65D0CA8-6F3F-461A-9796-F2F6F8C7E2DF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D65D0CA8-6F3F-461A-9796-F2F6F8C7E2DF}.Debug|Win32.Build.0 = Debug|Win32
+		{D65D0CA8-6F3F-461A-9796-F2F6F8C7E2DF}.Release|Win32.ActiveCfg = Release|Win32
+		{D65D0CA8-6F3F-461A-9796-F2F6F8C7E2DF}.Release|Win32.Build.0 = Release|Win32
+		{36824FB0-A7D1-4765-BB97-A3AA3F608F09}.Debug|Win32.ActiveCfg = Debug|Win32
+		{36824FB0-A7D1-4765-BB97-A3AA3F608F09}.Debug|Win32.Build.0 = Debug|Win32
+		{36824FB0-A7D1-4765-BB97-A3AA3F608F09}.Release|Win32.ActiveCfg = Release|Win32
+		{36824FB0-A7D1-4765-BB97-A3AA3F608F09}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
